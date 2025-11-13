@@ -1,0 +1,62 @@
+======================================================================
+🎬 IMDb FİLM VERİ SETİ ANALİZİ RAPORU
+======================================================================
+
+📌 GENEL BİLGİLER
+- Toplam film sayısı: 44,426
+- Yıl aralığı: 1874 – 2019
+- Ortalama IMDb puanı: 6.38
+- Medyan IMDb puanı: 6.60
+- Süre (dakika) ile puan arasındaki korelasyon: 0.126
+
+🎭 EN POPÜLER TÜRLER
+  • Drama           : 11012 film
+  • Comedy          : 10647 film
+  •  Drama          : 10173 film
+  •  Romance        : 5720 film
+  • Action          : 5060 film
+  •  Thriller       : 4751 film
+  • Documentary     : 4073 film
+  •  Comedy         : 2980 film
+  •  Crime          : 2660 film
+  • Crime           : 2615 film
+
+🌟 EN YÜKSEK PUANLI 10 FİLM
+   1. Band of Brothers (2001) — 9.6
+   2. The Chaos Class (1975) — 9.5
+   3. Dances Sacred and Profane (1985) — 9.5
+   4. Planet Earth (2006) — 9.5
+   5. The Third Annual 'On Cinema' Oscar Special (2015) — 9.5
+   6. The Civil War (1990) — 9.4
+   7. Thani Oruvan (2015) — 9.4
+   8. Drag Becomes Him (2015) — 9.4
+   9. A Brave Heart: The Lizzie Velasquez Story (2015) — 9.4
+  10. The Real Miyagi (2015) — 9.3
+
+🎬 EN ÇOK FİLM ÇEKEN YÖNETMENLER
+  •                           : 584.0 film, ort. puan 7.51
+  • John Ford                 : 59.0 film, ort. puan 6.93
+  • Michael Curtiz            : 56.0 film, ort. puan 6.83
+  • Alfred Hitchcock          : 53.0 film, ort. puan 7.04
+  • Georges M�li�s            : 51.0 film, ort. puan 6.44
+  • Werner Herzog             : 50.0 film, ort. puan 7.17
+  • Woody Allen               : 46.0 film, ort. puan 7.15
+  • Sidney Lumet              : 44.0 film, ort. puan 6.74
+  • Charles Chaplin           : 42.0 film, ort. puan 7.09
+  • Henry Hathaway            : 41.0 film, ort. puan 6.75
+
+📈 SON 10 YILDA ÇEKİLEN FİLM SAYISI
+  2010 : 1536 film
+  2011 : 1661 film
+  2012 : 1766 film
+  2013 : 1892 film
+  2014 : 2052 film
+  2015 : 2072 film
+  2016 : 516 film
+  2017 : 42 film
+  2018 : 1 film
+  2019 : 1 film
+
+======================================================================
+🧠 RAPOR SONU — Bu özet, veri setinin genel eğilimlerini gösterir.
+======================================================================
