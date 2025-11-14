@@ -31,16 +31,16 @@ Kod çalıştığında tüm grafikler **outputs/** klasörüne kaydedilir.
 Aşağıda grafik ön izlemeleri:
 
 #### ⭐ IMDb Puan Dağılımı  
-![Rating Histogram](outputs/rating_histogram.png)
+![Rating Histogram](rating_histogram.png)
 
 #### 🎭 En Popüler Türler  
-![Top Genres](outputs/top_genres_barh.png)
+![Top Genres](top_genres_barh.png)
 
 #### ⏳ Süre – Puan İlişkisi  
-![Duration vs Rating](outputs/duration_vs_rating_scatter.png)
+![Duration vs Rating](duration_vs_rating_scatter.png)
 
 #### 📦 En Popüler Türlerde Puan Boxplot  
-![Boxplot Top Genres](outputs/rating_boxplot_top6genres.png)
+![Boxplot Top Genres](rating_boxplot_top6genres.png)
 
 # 📝 Raporlama  
 Kod sonunda **Report/imdb_raporu.txt** dosyası oluşturulur. Raporda şunlar bulunur:
