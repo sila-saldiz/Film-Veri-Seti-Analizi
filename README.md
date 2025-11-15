@@ -52,10 +52,13 @@ Kod sonunda **Report/imdb_raporu.txt** dosyası oluşturulur. Raporda şunlar bu
 - Son 10 yılın film üretim sayıları
 
 - ## Çalıştırma
-- ###bash
+  
 - #### 1. Repo’yu klonlayın:
+- '''bash
+- 
 git clone https://github.com/sila-saldiz/Film‑Veri‑Seti‑Analizi.git
 cd Film‑Veri‑Seti‑Analizi
+'''
 
 #### 2. Gerekli kütüphaneleri yükleyin:
 pip install pandas numpy matplotlib
