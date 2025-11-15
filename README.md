@@ -49,4 +49,23 @@ Kod sonunda **Report/imdb_raporu.txt** dosyası oluşturulur. Raporda şunlar bu
 - En popüler türler  
 - En yüksek puanlı 10 film  
 - En çok film çeken yönetmenler  
-- Son 10 yılın film üretim sayıları  
+- Son 10 yılın film üretim sayıları
+
+- ## Çalıştırma
+- # 1. Repo’yu klonlayın:
+git clone https://github.com/sila-saldiz/Film‑Veri‑Seti‑Analizi.git
+cd Film‑Veri‑Seti‑Analizi
+
+# 2. Gerekli kütüphaneleri yükleyin:
+pip install pandas numpy matplotlib
+
+# 3. Veri dosyasını proje klasörüne koyun ya da dosya yolunu güncelleyin:
+# Örneğin: imdb_movies.csv (veya README’de belirtildiği dosya)
+
+# 4. Ana script’i çalıştırın:
+python your_script_name.py   # (örneğin: imdb_analysis.py)
+
+# 5. Çıktılar:
+# – Grafikler → outputs/ klasörü
+# – Rapor → Report/imdb_raporu.txt
+
