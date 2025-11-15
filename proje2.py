@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 # 2. CSV dosyasını oku
-csv_path = "/Users/user/Downloads/ecommerce-sales-dataset/movies_initial.csv"   
+csv_path = "dosya yolu "   
 df = pd.read_csv(csv_path)
 
 # 3. Veri setinin ilk 10 satırına bakalım
